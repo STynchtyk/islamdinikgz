@@ -1,0 +1,4 @@
+Tool: built-in image_gen (edit)
+Reference: nur-zhol-hero.png
+
+Edit this website landscape banner. Move the entire mosque building and its minaret to the exact horizontal center of the composition. Show the complete mosque from ground to minaret tip with generous margins above and below. Nature and mountain scenery on BOTH sides, balanced composition. Preserve the reference mosque architecture, photographic style, mountain landscape and sunset mood, but brighten the mosque so its facade is clearly visible. Wide panoramic 16:9 image, no text, no UI, no watermark.
