@@ -1,0 +1,4 @@
+Tool: built-in image_gen (edit)
+Reference: mosque-centered-hero.png
+
+Edit the reference landscape photograph for a website background. Pull the camera back: make the centered mosque and minaret approximately 30% smaller in the frame, appearing farther away. Keep the whole mosque centered and fully visible from foundation to minaret tip. Expand surrounding mountain nature and foreground seamlessly. Preserve the exact mosque architecture, sunset colors, photographic realism and wide landscape aspect ratio. No text or UI.
